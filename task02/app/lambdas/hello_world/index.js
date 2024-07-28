@@ -1,7 +1,7 @@
 
 exports.handler = async (event) => {
-    const method = JSON.stringify(event.requestContext.http.method);
-    const path = JSON.stringify(event.requestContext.http.path);
+    const method = event.requestContext.http.method;
+    const path = event.requestContext.http.path;
 
     const goodRes = {
         'statusCode': 200,
@@ -13,7 +13,7 @@ exports.handler = async (event) => {
         'message': `Bad request syntax or unsupported method. Request path: ${path}. HTTP method: ${method}`
     }
 
-    if (path === JSON.stringify("/hello")) {
+    if (JSON.stringify(path) === JSON.stringify("/hello")) {
         return JSON.stringify(goodRes);
     }
     else {
