@@ -38,8 +38,7 @@
               "RelativeToolTip": "app\\lambdas\\hello_world\\lambda_config.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-28T13:36:59.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T13:36:59.589Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "app\\lambdas\\hello_world\\index.js",
               "ToolTip": "D:\\Kimi_Toshiko\\EPAM\\EPAM Training\\Project Educational\\AWS\\Tasks\\deep-dive-aws-course\\task02\\app\\lambdas\\hello_world\\index.js",
               "RelativeToolTip": "app\\lambdas\\hello_world\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-28T13:36:49.004Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "app\\lambdas\\hello_world\\deployment_resources.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-28T13:36:45.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T13:36:45.8Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "deployment_resources.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-28T13:35:27.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T13:35:27.414Z"
             }
           ]
         }
