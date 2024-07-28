@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\lambdas",
+    "\\app\\lambdas\\hello_world"
+  ],
+  "SelectedNode": "\\app\\lambdas\\hello_world\\index.js",
+  "PreviewInSolutionExplorer": false
+}
