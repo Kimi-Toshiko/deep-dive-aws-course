@@ -5,18 +5,18 @@ exports.handler = async (event) => {
 
     const goodRes = {
         'statusCode': 200,
-        'message': "Hello from Lambda"
+        'message': JSON.stringify("Hello from Lambda")
     }
 
     const badRes = {
         'statusCode': 400,
-        'message': `Bad request syntax or unsupported method. Request path: ${path}. HTTP method: ${method}`
+        'message': JSON.stringify(`Bad request syntax or unsupported method. Request path: ${path}. HTTP method: ${method}`)
     }
 
     if (path === JSON.stringify("/hello")) {
-        return goodRes;
+        return JSON.stringify(goodRes);
     }
     else {
-        return badRes;
+        return JSON.stringify(badRes);
     }
 };
