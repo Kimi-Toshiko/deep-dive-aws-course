@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\task02\\app",
+    "\\task02\\app\\lambdas",
+    "\\task02\\app\\lambdas\\hello_world",
+    "\\task03",
+    "\\task03\\app",
+    "\\task03\\app\\lambdas",
+    "\\task03\\app\\lambdas\\lambda-function-task03"
+  ],
+  "SelectedNode": "\\task03\\app\\lambdas\\lambda-function-task03\\lambda_config.json",
+  "PreviewInSolutionExplorer": false
+}
